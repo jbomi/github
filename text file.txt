@@ -3,3 +3,9 @@ hello world
 #추가된 메세지
 #추가된 메세지
 # 추가된 메세지
+
+ #git init
+ #git config
+ #git help
+ #git status
+ #git commit -m "message"
