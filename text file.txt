@@ -1,12 +1,9 @@
 hello world
 
-#Ãß°¡µÈ ¸Ş¼¼Áö
-#Ãß°¡µÈ ¸Ş¼¼Áö
-# Ãß°¡µÈ ¸Ş¼¼Áö
 
  #git init
  #git config
  #git help
  #git status
  #git commit -m "message"
- #git push origin +master = º¯°æ»çÇ× repository·Î ¾÷µ¥ÀÌÆ®ÇÏ±â
+ #git push origin +master = ë³€ê²½ì‚¬í•­ repositoryë¡œ ì—…ë°ì´íŠ¸í•˜ê¸°
