@@ -1,9 +1,0 @@
-hello world
-
-
- #git init
- #git config
- #git help
- #git status
- #git commit -m "message"
- #git push origin +master = 변경사항 repository로 업데이트하기
